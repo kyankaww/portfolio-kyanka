@@ -1,0 +1,25 @@
+@import "../../../data/styles.css";
+
+.skills-body {
+	margin-bottom: 10px;
+}
+
+.skill {
+	display: flex;
+	padding-bottom: 40px;
+	width: 400px;
+}
+
+.skill-image {
+	width: calc(100% / 10);
+	margin-left: 10px ;
+	margin-right: 10px ;
+	margin-bottom: 10px ;
+}
+
+.all-skills {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+
